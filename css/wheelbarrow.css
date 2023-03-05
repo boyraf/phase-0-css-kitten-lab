@@ -5,7 +5,7 @@ html {
 img {
   position: relative;
   z-index: 11;
-  cursor: pointer;
+  cursor: pointer ;
 }
 
 .wrapper {
@@ -17,7 +17,7 @@ img {
 
 #wheelbarrow, #wheelbarrow-foreground {
   margin-left: 80px;
-  width: 688px;
+  width: 608px;
   height: 514px;
 }
 
